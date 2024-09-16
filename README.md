@@ -13,6 +13,7 @@ I have been doing full stack web development for 3 years, most of all I work in 
 * ✉️  You can contact me at [workspacesesh@gmail.com](mailto:workspacesesh@gmail.com)
 * 🤝  I'm open to collaborating on In Moscow College by Information System and Programming
 * ⚡  Love Anime =>
+* 🤪  My telegram @seshdll
 
 <a href="https://www.github.com/SeshFoster" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SeshFoster?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
