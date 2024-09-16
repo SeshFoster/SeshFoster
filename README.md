@@ -7,12 +7,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-🎓  &nbsp;I'm currently studying Computer Science and Mathematics at the College of Moscow
-🌱  &nbsp;I work as a full-stack web programmer, I take freelance orders and drop them on my github.
-✍️  &nbsp;In my free time, I pursue System Programming and Blog Writing in myself telegram channel.
-✉️  &nbsp;You can shoot me an email at workspacesesh@gmail.com! I'll try to respond as soon as I can.
-📄  &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓  &nbsp;I'm currently studying Computer Science and Mathematics at the College of Moscow\
+🌱  &nbsp;I work as a full-stack web programmer, I take freelance orders and drop them on my github.\
+✍️  &nbsp;In my free time, I pursue System Programming and Blog Writing in myself telegram channel.\
+✉️  &nbsp;You can shoot me an email at workspacesesh@gmail.com! I'll try to respond as soon as I can.\
+📄  &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
