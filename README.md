@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://i.ytimg.com/vi/59cCvCczSb8/maxresdefault.jpg))
+![Aditya Vikram Singh Banner](https://steamuserimages-a.akamaihd.net/ugc/786358213600222987/CCA0AA14049168B3A05A130148D4E73FB8BF5208/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sesh Foster</h2>
 
