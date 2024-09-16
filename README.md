@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://i.ytimg.com/vi/59cCvCczSb8/maxresdefault.jpg)
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sesh Foster</a> 
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Sesh Foster</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Full-Stack Web-Developer and CyberSecurity, and DevOps</h3>
 
