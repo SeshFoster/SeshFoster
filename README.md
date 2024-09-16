@@ -1,6 +1,8 @@
 ![Aditya Vikram Singh Banner](https://i.ytimg.com/vi/59cCvCczSb8/maxresdefault.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sesh Foster</h2>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
